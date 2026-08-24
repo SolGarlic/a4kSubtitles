@@ -159,12 +159,12 @@ def parse_search_response(core, service_name, meta, response):
         raw_lang = result['language']
         if raw_lang.lower() in ('pt-pt', 'pt'):
             language = next(
-                (l for l in meta.languages if 'portuguese' in l.lower() and 'brazil' not in l.lower()),
+                (lang for lang in meta.languages if 'portuguese' in lang.lower() and 'brazil' not in lang.lower()),
                 'Portuguese'
             )
         else:
             language = core.utils.get_lang_id(raw_lang, core.kodi.xbmc.ENGLISH_NAME)
-    
+
         return {
             'service_name': service_name,
             'service': service.display_name,

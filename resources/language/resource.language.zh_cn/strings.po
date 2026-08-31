@@ -81,6 +81,10 @@ msgctxt "#33203"
 msgid "Podnadpisi"
 msgstr "Podnadpisi"
 
+msgctxt "#33204"
+msgid "LegendasDivx"
+msgstr "LegendasDivx"
+
 msgctxt "#33205"
 msgid "SubDL"
 msgstr "SubDL"
@@ -109,6 +113,14 @@ msgstr "API 密钥"
 msgctxt "#33304"
 msgid "API Key"
 msgstr "API 密钥"
+
+msgctxt "#33305"
+msgid "Username"
+msgstr "用户名"
+
+msgctxt "#33306"
+msgid "Password"
+msgstr "密码"
 
 ## 选择选项
 

@@ -81,6 +81,10 @@ msgctxt "#33203"
 msgid "Podnadpisi"
 msgstr ""
 
+msgctxt "#33204"
+msgid "LegendasDivx"
+msgstr ""
+
 msgctxt "#33205"
 msgid "SubDL"
 msgstr ""
@@ -108,6 +112,14 @@ msgstr ""
 
 msgctxt "#33304"
 msgid "API Key"
+msgstr ""
+
+msgctxt "#33305"
+msgid "Username"
+msgstr ""
+
+msgctxt "#33306"
+msgid "Password"
 msgstr ""
 
 ## Select Options

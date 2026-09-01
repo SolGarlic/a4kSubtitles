@@ -7,6 +7,7 @@ __all = utils.get_all_relative_entries(__file__)
 __display_names = {
     'addic7ed': 'Addic7ed',
     'bsplayer': 'BSPlayer',
+    'legendasdivx': 'LegendasDivx',
     'opensubtitles': 'OpenSubtitles',
     'podnadpisi': 'Podnadpisi',
     'subdl': 'SubDL',
